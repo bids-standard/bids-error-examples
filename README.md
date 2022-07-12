@@ -1,7 +1,7 @@
 # bids-error-examples
 
-This repository contains a set of [BIDS](https://bids.neuroimaging.io/) **incompatible** datasets which showcase BIDS errors.
-An error case reference is chiefly useful in writing validator software tests.
+This repository contains a set of [BIDS](https://bids.neuroimaging.io/)**-incompatible** datasets which showcase BIDS errors.
+This error case reference is chiefly useful for writing validator software tests.
 
 **ALL RAW DATA FILES IN THIS REPOSITORY ARE EMPTY!**
 
@@ -16,4 +16,4 @@ Headers are intact for the following datasets:
 
 ## Error Annotation
 
-Errors are described in human-readable for under the `# BIDS Error` heading at the end of each dataset's `README` file.
+Errors are described in human-readable form under the `# BIDS Error` heading at the end of each dataset's `README` file.
