@@ -1,0 +1,8 @@
+{
+  "MANDATORY_FILE_MISSING_PLACEHOLDER":
+    {
+      "scope": [
+        ".*?/README(|\\.md|\\.rst|\\.txt)$"
+      ]
+    }
+}
