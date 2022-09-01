@@ -16,4 +16,4 @@ Headers are intact for the following datasets:
 
 ## Error Annotation
 
-Errors are described in human-readable form in each dataset's `.ERRORS` file.
+Errors are described in human-readable form in each dataset's `.ERRORS.md` file, and listed with (currently) *placeholder* errorcodes in `.ERRORS.json`.
