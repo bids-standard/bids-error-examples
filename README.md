@@ -16,4 +16,4 @@ Headers are intact for the following datasets:
 
 ## Error Annotation
 
-Errors are described in human-readable form under the `# BIDS Error` heading at the end of each dataset's `README` file.
+Errors are described in human-readable form in each dataset's `.ERRORS` file.
