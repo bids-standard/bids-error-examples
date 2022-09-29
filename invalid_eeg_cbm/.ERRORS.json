@@ -4,5 +4,11 @@
       "scope": [
         ".*?/README(|\\.md|\\.rst|\\.txt)$"
       ]
+    },
+  "NON_BIDS_PATH_PLACEHOLDER":
+    {
+      "scope": [
+        "sub-cbm011/sub-cbm011_scans.nii"
+      ]
     }
 }
